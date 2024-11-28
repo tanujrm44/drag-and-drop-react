@@ -16,13 +16,13 @@ Before running the project, you need to have the following installed on your mac
 1. Clone the repository:
 
 ```
-   git clone https://github.com/tanujpayiq/payiq-portal
+   git clone https://github.com/tanujrm44/drag-and-drop-react.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-   cd payiq-portal
+   cd dnd-react
 ```
 
 3. Install dependencies:
